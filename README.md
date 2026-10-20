@@ -13,6 +13,6 @@
 
 1. Склонировать репо и поставить библиотеку:
 ```bash
-git clone [https://github.com/nexedov/college-dz-bot.git](https://github.com/nexedov/college-dz-bot.git)
+git clone https://github.com/nexedov/college-dz-bot.git
 cd college-dz-bot
 pip install -r requirements.txt
