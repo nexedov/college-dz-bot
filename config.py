@@ -1,11 +1,16 @@
 TOKEN = ""
 
+OWNERS = [
+    "ID_ВЛАДЕЛЬЦА"
+]
+
 MODERS = [
-    "ТВОЙ_ID"
+    "ID_МОДЕРАТОРА1",
+    "ID_МОДЕРАТОРА2"
 ]
 
 INITIAL_ADMINS = [
-    "ТВОЙ_ID"
+    "ID_ВЛАДЕЛЬЦА"
 ]
 
 DATA_FILE = "homework_data.json"
